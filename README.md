@@ -1,2 +1,2 @@
-# first-sample
-To test the connection to my Git
+# Data Analysis
+My first data analysis project
