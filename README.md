@@ -1,2 +1,2 @@
 # Data Analysis
-My first data analysis project
+My data analysis project that involves ETL and Regression
